@@ -26,7 +26,7 @@ class CustomCardType1 extends StatelessWidget {
               children: [
                 TextButton(
                   onPressed: () {}, 
-                  child: const Text('Mas informacion'),
+                  child: const Text('Más información'),
                 ),
                 TextButton(
                   onPressed: () {}, 

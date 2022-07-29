@@ -50,7 +50,7 @@ class AlertScreen extends StatelessWidget {
 
         return AlertDialog(
           elevation: 5,
-          title: const Text('Titulo'),
+          title: const Text('Título'),
           shape: RoundedRectangleBorder( borderRadius: BorderRadiusDirectional.circular(10) ),
           content: Column(
             mainAxisSize: MainAxisSize.min,

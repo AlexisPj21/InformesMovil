@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 class Listview2Screen extends StatelessWidget {
    
-  final options = const['Kardex de productos','Modulos mas activados','Rendimiento de un controlador','Nodos mas activos', 'Informe de comparacion de nodos','Graficas administrativas'];
+  final options = const['Kardex de productos','Módulos mas activados','Rendimiento de un controlador','Nodos mas activos', 'Informe de comparación de nodos','Gráficas administrativas'];
 
   const Listview2Screen({Key? key}) : super(key: key);
   
